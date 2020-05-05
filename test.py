@@ -1,3 +1,3 @@
-# test git 3
+# test git 4
 test = input()
-
+print(test)
